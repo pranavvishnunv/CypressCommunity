@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "cypress": "^14.2.1",
+    "cypress-dotenv": "^2.0.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-shadow-dom": "^1.4.1",
+    "cypress-xpath": "^2.0.1",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+  },
+  "dependencies": {
+    "chai": "^5.1.1",
+    "url": "^0.11.4"
+  }
+}
